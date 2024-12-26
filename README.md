@@ -1,7 +1,5 @@
 # Text-Processing-on-Summarization-and-Keyword-Prediction
 
-# Text Processing Project: Summarization, Keyword Prediction, and Classification
-
 This repository contains a modular implementation of text processing techniques for academic abstracts. The project focuses on the following tasks:
 
 1. **Text Summarization**: Extracting key topics from abstracts using LDA (Latent Dirichlet Allocation).
