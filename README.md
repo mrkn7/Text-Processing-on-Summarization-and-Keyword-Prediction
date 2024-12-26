@@ -25,13 +25,13 @@ Academic abstracts often require summarization, keyword extraction, and classifi
 ```
 Text-Processing/
 │
-├── src/                        # Python scripts for modular code
-│   ├── preprocess.py           # Text preprocessing functions
-│   ├── lda_model.py            # LDA model for topic extraction
-│   ├── text_classification.py  # Text classification using TF-IDF and Naive Bayes
-├── notebooks/                  # Jupyter notebooks (if any analysis is required)
-├── README.md                   # Project documentation
-├── LICENSE                     # License file
+├── src/                      
+│   ├── preprocess.py          
+│   ├── lda_model.py           
+│   ├── text_classification.py  
+├── notebooks/                  
+├── README.md                 
+├── LICENSE                    
 ```
 
 ## Setup Instructions
